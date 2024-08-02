@@ -21,7 +21,7 @@ This is a simple Caesar cipher implementation with a graphical user interface (G
 
 1. **Clone the repository**:
    
-   git clone https://github.com/SyedAbdulKani/caesar-cipher-gui.git
+   git clone https://github.com/SyedAbdulKani/caesar-cipher-.git
    cd caesar-cipher-gui
 
 Ensure Tkinter is installed:
